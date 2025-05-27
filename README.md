@@ -6,25 +6,32 @@ This project demonstrates a full-cycle e-commerce data analysis solution develop
 - Leveraged Azure Machine Learning (AutoML) in the cloud to automate sales forecasting and customer churn prediction
 
 # Main workflow 
-![Screenshot 2025-05-25 151401](https://github.com/user-attachments/assets/a8f849c7-ae91-4032-a32f-348372f09fd1)
+![Screenshot 2025-05-25 151401](https://github.com/user-attachments/assets/16b9d37c-dd78-4e5e-b230-f4da5f94ac4f)
+
 
 
 ## Data Modeling
-![image](https://github.com/user-attachments/assets/c9698309-357f-47fb-9223-a93c8ede7ba0)
+![Screenshot 2025-05-27 150921](https://github.com/user-attachments/assets/e3edca71-6b2c-4f20-8495-cd021ac11769)
+
 
 ## Overview Dashboard 
-![Screenshot 2025-05-25 145541](https://github.com/user-attachments/assets/aa1b4942-48d2-4e2a-b011-381fb1fd7c9c)
+![Screenshot 2025-05-25 145541](https://github.com/user-attachments/assets/788c7cf2-15f6-491f-b98e-e815dc0128b4)
+
 
 ## Product Performance
-![image](https://github.com/user-attachments/assets/c8be6074-f4c4-4c56-a7b1-33c266f6aaf1)
+![Screenshot 2025-05-25 150539](https://github.com/user-attachments/assets/0eb3fe16-42d0-4132-bab0-88c0e30f65e4)
+
 
 ## Customer Behavior
-![Screenshot 2025-05-25 145605](https://github.com/user-attachments/assets/d48be8e1-343c-4e69-a2cf-45f0c5341e1d)
+![Screenshot 2025-05-25 145605](https://github.com/user-attachments/assets/3ac41f19-1b82-405f-a795-d2cc238eae98)
+
 
 ## Return Analysis 
-![image](https://github.com/user-attachments/assets/636eda9f-c90c-4bd3-bec1-815fdf8e93e3)
+![Screenshot 2025-05-25 151016](https://github.com/user-attachments/assets/73e8a373-51b3-4f7d-b422-eee044e8e7de)
+
 
 
 ## Recommendations 
 
-![image](https://github.com/user-attachments/assets/1e854a77-5a07-4b43-b162-303d8415e9d3)
+![Screenshot 2025-05-25 151124](https://github.com/user-attachments/assets/3abec660-270d-4ce7-87cf-331b249a2d45)
+

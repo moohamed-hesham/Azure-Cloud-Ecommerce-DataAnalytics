@@ -9,6 +9,9 @@ This project demonstrates a full-cycle e-commerce data analysis solution develop
 ![Screenshot 2025-05-25 151401](https://github.com/user-attachments/assets/a8f849c7-ae91-4032-a32f-348372f09fd1)
 
 
+## Data Modeling
+![image](https://github.com/user-attachments/assets/c9698309-357f-47fb-9223-a93c8ede7ba0)
+
 ## Overview Dashboard 
 ![Screenshot 2025-05-25 145541](https://github.com/user-attachments/assets/aa1b4942-48d2-4e2a-b011-381fb1fd7c9c)
 
